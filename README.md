@@ -1,4 +1,4 @@
 ## Oi eu sou Hiago Silva
 
-- Estou estudando para ser Front end
+- Estou estudando para ser desenvolvedor Front end
 - Pronomes: ele/dele
